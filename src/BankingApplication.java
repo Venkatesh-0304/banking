@@ -7,7 +7,7 @@ public class BankingApplication {
     static final String DB_URL = "jdbc:mysql://localhost/banking";
 
     static final String USER = "root";
-    static final String PASS = "Venky@1234";
+    static final String PASS = "Admin@123";
 
     public static void main(String[] args) {
         Connection conn = null;
